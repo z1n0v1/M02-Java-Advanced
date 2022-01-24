@@ -2,3 +2,6 @@
 *.docx
 *.ppt
 *.pptx
+**/out/
+**/lib/
+**/target/
